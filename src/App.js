@@ -39,7 +39,7 @@ function App() {
 
           <p>
             <i class="fa fa-map-marker fa-lg"></i> {ipDetails.city},{" "}
-            {ipDetails.region},{ipDetails.country_name}.
+            {ipDetails.region}, {ipDetails.country_name}.
           </p>
 
           <h4>Internet Service Provider(ISP):</h4>
