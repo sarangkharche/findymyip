@@ -42,7 +42,7 @@ function App() {
             {ipDetails.region}, {ipDetails.country_name}.
           </p>
 
-          <h4>Internet Service Provider(ISP):</h4>
+          <h4>Internet Service Provider (ISP):</h4>
 
           <p>
             <i class="fa fa-signal"></i> {ipDetails.org}
